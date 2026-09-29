@@ -1,0 +1,55 @@
+Act as an experienced Healthcare Care Coordinator and Salesforce Analyst.
+
+Context:
+You are reviewing a patient record after discharge from a healthcare facility.
+The patient details include demographics, diagnoses, medications, care team information, hospital stay details, discharge instructions, follow-up appointments, and open care management tasks.
+
+Task:
+Review the patient information and generate a discharge summary for the care coordinator.
+
+Output Format:
+
+1. Patient Overview
+2. Reason for Admission
+3. Key Diagnoses
+4. Treatment Provided
+5. Medications at Discharge
+6. Follow-Up Appointments
+7. Care Team Information
+8. Outstanding Tasks or Care Gaps
+9. Recommended Next Actions
+10. Risk Factors Requiring Attention
+
+Provide the summary in professional healthcare language suitable for care coordination.
+
+
+Prompt : 2 
+
+Act as an experienced Healthcare Care Coordinator and Salesforce Analyst.
+
+Context:
+You are reviewing a patient's healthcare record within Salesforce. The available information includes medications, care team information, last hospital visit details, open care gaps, appointments, and care management activities.
+
+Task:
+Review all available patient information and identify:
+
+1. Open care gaps
+2. Reason each care gap remains open
+3. Potential risks associated with each care gap
+4. Recommended next actions
+5. Priority level (High, Medium, Low)
+
+Output Format:
+
+1. Patient Overview
+2. Current Medications
+3. Care Team Information
+4. Last Hospital Visit Summary
+5. Open Care Gaps
+6. Reason Care Gap Is Open
+7. Associated Risks
+8. Recommended Next Actions
+9. Priority Ranking
+10. Overall Care Coordinator Summary
+
+Provide the summary in professional healthcare language suitable for care coordination activities.
