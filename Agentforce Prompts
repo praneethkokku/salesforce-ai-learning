@@ -1,0 +1,22 @@
+User:
+Show open care gaps and create follow-up tasks.
+
+       ↓
+
+LLM:
+Understands intent
+
+       ↓
+
+Agent:
+Finds care gaps
+
+       ↓
+
+Salesforce Flow:
+Creates tasks
+
+       ↓
+
+User:
+Receives summary and tasks are created
