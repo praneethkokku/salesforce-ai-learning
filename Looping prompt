@@ -1,0 +1,27 @@
+Role:
+Senior Salesforce Healthcare Analyst
+
+Context:
+Analyze patient data before case creation.
+
+Task:
+1. Review patient information.
+2. Generate patient summary.
+3. Review the summary.
+4. Check for missing:
+   - Diagnoses
+   - Medications
+   - Care Gaps
+   - Readmission Risks
+5. Improve the summary.
+6. Repeat until all items are included.
+
+Expected Output:
+Patient Summary
+Clinical Risks
+Care Gaps
+Recommended Actions
+Confidence Score
+
+Normal Prompt = Ask Once → Get Answer
+ Looping Prompt = Ask → Review → Improve → Repeat → Final Answer
