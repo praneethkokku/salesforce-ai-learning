@@ -20,3 +20,30 @@ Creates tasks
 
 User:
 Receives summary and tasks are created
+
+
+
+Visual Architecture
+User
+  ↓
+
+LLM
+(Understands Request)
+
+  ↓
+
+Agent
+(Decides What To Do)
+
+  ↓
+
+Flow / Apex
+(Performs Action)
+
+  ↓
+
+Salesforce Data
+
+  ↓
+
+Results Returned
